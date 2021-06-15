@@ -1,0 +1,10 @@
+# Build folders
+build*/
+
+# Other folders
+CRCtest/
+festo/
+maket/
+Primer/
+THEOREMS-Dnipro_Serial_Protocol/
+
